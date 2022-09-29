@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - RD Page by J.W</title>
+        <link>https://isjwdu.github.io/posts/</link>
+        <description>All Posts | RD Page by J.W</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 29 Sep 2022 22:00:06 &#43;0800</lastBuildDate><atom:link href="https://isjwdu.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>2_post</title>
+    <link>https://isjwdu.github.io/2_post/</link>
+    <pubDate>Thu, 29 Sep 2022 22:00:06 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://isjwdu.github.io/2_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
