@@ -2,11 +2,11 @@
 title: "EMO-SUPERB: An In-depth Look at Speech Emotion Recognition"
 collection: publications
 permalink: /publication/EMO-SUPERB
-excerpt: ''
+excerpt: 
 date: 2024-02-20
-venue: 'GitHub Journal of Bugs'
+venue: 
 paperurl: 'https://arxiv.org/pdf/2402.13018.pdf'
-citation: 'Haibin Wu, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, **Jiawei Du**, Jyh-Shing Roger Jang, Chi-Chun Lee, and Hung-Yi Lee. EMO-SUPERB: An In-depth Look at Speech Emotion Recognition. arXiv preprint arXiv:2402.13018, 2024.'
+citation: 'Haibin Wu, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, Jiawei Du, Jyh-Shing Roger Jang, Chi-Chun Lee, and Hung-Yi Lee. EMO-SUPERB: An In-depth Look at Speech Emotion Recognition. arXiv preprint arXiv:2402.13018, 2024.'
 ---
 
 SER relies on classification models and cannot process valuable natural language labels. We leverage ChatGPT to relabel the natural language labels, as shown in Figure 1, achieving consistent improvement across all experimental settings. 
