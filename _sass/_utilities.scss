@@ -6,7 +6,7 @@
    Visibility
    ========================================================================== */
 
-/* https://www.456bereastreet.com/archive/200711/screen_readers_sometimes_ignore_displaynone/ */
+/* http://www.456bereastreet.com/archive/200711/screen_readers_sometimes_ignore_displaynone/ */
 
 .hidden {
   display: none;
@@ -23,7 +23,7 @@
   opacity: 0;
 }
 
-/* https://developer.yahoo.com/blogs/ydn/clip-hidden-content-better-accessibility-53456.html */
+/* http://developer.yahoo.com/blogs/ydn/clip-hidden-content-better-accessibility-53456.html */
 
 .visually-hidden,
 .screen-reader-text,
@@ -117,7 +117,7 @@ body:hover .visually-hidden button {
   @include container();
 }
 
-/* Source: https://snipplr.com/view/10979/css-cross-browser-word-wrap */
+/* Source: http://snipplr.com/view/10979/css-cross-browser-word-wrap */
 .wordwrap { 
   white-space: pre-wrap;      /* CSS3 */   
   white-space: -moz-pre-wrap; /* Firefox */    

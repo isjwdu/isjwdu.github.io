@@ -1,7 +1,7 @@
 
 	/*
 	 Leaflet.markercluster, Provides Beautiful Animated Marker Clustering functionality for Leaflet, a JS library for interactive maps.
-	 https://github.com/Leaflet/Leaflet.markercluster
+	 http://github.com/Leaflet/Leaflet.markercluster
 	 (c) 2012-2013, Dave Leaver, smartrak
 	*/
 	(function (window, document, undefined) {/*
@@ -215,7 +215,7 @@
 						// - Total increases, so chunkProgress ratio jumps backward.
 						// - Groups are not included in this group, only their non-group child layers (hasLayer).
 						// Changing array length while looping does not affect performance in current browsers:
-						// https://jsperf.com/for-loop-changing-length/6
+						// http://jsperf.com/for-loop-changing-length/6
 						if (m instanceof L.LayerGroup) {
 							if (originalArray) {
 								layersArray = layersArray.slice();
@@ -1032,7 +1032,7 @@
 
 		/**
 		 * Expands the latitude to Infinity (or -Infinity) if the input bounds reach the map projection maximum defined latitude
-		 * (in the case of Web/Spherical Mercator, it is 85.0511287798 / see https://en.wikipedia.org/wiki/Web_Mercator#Formulas).
+		 * (in the case of Web/Spherical Mercator, it is 85.0511287798 / see http://en.wikipedia.org/wiki/Web_Mercator#Formulas).
 		 * Otherwise, the removeOutsideVisibleBounds option will remove markers beyond that limit, whereas the same markers without
 		 * this option (or outside MCG) will have their position floored (ceiled) by the projection and rendered at that limit,
 		 * making the user think that MCG "eats" them and never displays them again.
@@ -1878,7 +1878,7 @@
 
 	/* Copyright (c) 2012 the authors listed at the following URL, and/or
 	the authors of referenced articles or incorporated external code:
-	https://en.literateprograms.org/Quickhull_(Javascript)?action=history&offset=20120410175256
+	http://en.literateprograms.org/Quickhull_(Javascript)?action=history&offset=20120410175256
 
 	Permission is hereby granted, free of charge, to any person obtaining
 	a copy of this software and associated documentation files (the
@@ -1899,7 +1899,7 @@
 	TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 	SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-	Retrieved from: https://en.literateprograms.org/Quickhull_(Javascript)?oldid=18434
+	Retrieved from: http://en.literateprograms.org/Quickhull_(Javascript)?oldid=18434
 	*/
 
 	(function () {
@@ -2043,7 +2043,7 @@
 	});
 
 
-	//This code is 100% based on https://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet
+	//This code is 100% based on http://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet
 	//Huge thanks to jawj for implementing it first to make my job easy :-)
 
 	L.MarkerCluster.include({
@@ -2260,7 +2260,7 @@
 				map.addLayer(leg);
 				m._spiderLeg = leg;
 
-				// Explanations: https://jakearchibald.com/2013/animated-line-drawing-svg/
+				// Explanations: http://jakearchibald.com/2013/animated-line-drawing-svg/
 				// In our case the transition property is declared in the CSS file.
 				if (svg) {
 					legPath = leg._path;
@@ -2438,7 +2438,7 @@
 			if (!L.Browser.touch) {
 				this._map.getRenderer(this);
 				//Needs to happen in the pageload, not after, or animations don't work in webkit
-				//  https://stackoverflow.com/questions/8455200/svg-animate-with-dynamically-added-elements
+				//  http://stackoverflow.com/questions/8455200/svg-animate-with-dynamically-added-elements
 				//Disable on touch browsers as the animation messes up on a touch zoom and isn't very noticable
 			}
 		},
@@ -2565,7 +2565,7 @@
 				// Dumb process that flags multiple times upper parents, but still
 				// much more efficient than trying to be smart and make short lists,
 				// at least in the case of a hierarchy following a power law:
-				// https://jsperf.com/flag-nodes-in-power-hierarchy/2
+				// http://jsperf.com/flag-nodes-in-power-hierarchy/2
 				parent = layers[id].__parent;
 				while (parent) {
 					parent._iconNeedsUpdate = true;
