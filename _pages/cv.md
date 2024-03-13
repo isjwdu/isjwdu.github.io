@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: ""
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
 ---
 
 English: <a href="/files/CV_JiaweiDu_20240313_en.pdf" target="_blank">CV_en</a> (Updated on 03/13/2024)
