@@ -1,9 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: 
+permalink: /CV/
 author_profile: true
 redirect_from:
+  - /files
 ---
 
 English: <a href="/files/CV_JiaweiDu_20240313_en.pdf" target="_blank">CV_en</a> (Updated on 03/13/2024)
