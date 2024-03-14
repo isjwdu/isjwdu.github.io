@@ -10,10 +10,6 @@ author_profile: true
   <div class="wordwrap">Name<sup>*</sup> represents equal first contribution.</div>
 {% endif %}
 
-- **Neural Codec-based Adversarial Sample Detection for Speaker Verification**<br/>
-    Xuanjun Chen<sup>\*</sup>, <u>Jiawei Du<sup>*</sup></u>, Haibin Wu<sup>\*</sup>, Jyh-Shing Roger Jang, Hung-Yi Lee<br/>
-    *Anonymous submission*<br/>
-
 - **EMO-SUPERB: An In-depth Look at Speech Emotion Recognition**<br/>
     Haibin Wu, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, <u>Jiawei Du</u>, Jyh-Shing Roger Jang, Chi-Chun Lee, Hung-Yi Lee<br/>
     *Preprint*<br/>
