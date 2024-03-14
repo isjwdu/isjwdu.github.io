@@ -12,7 +12,7 @@ title                    : "Jiawei Du"
 title_separator          : "-"
 name                     : &name "Jiawei Du"
 description              : &description "Personal academic website for Jiawei Du"
-url                      : http://isjwdu.github.io # the base hostname & protocol for your site e.g. "http://mmistakes.github.io"
+url                      : https://www.jiaweidu.top # the base hostname & protocol for your site e.g. "http://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "isjwdu/isjwdu.github.io"
 
