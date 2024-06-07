@@ -15,7 +15,7 @@ Jiawei is currently actively seeking internships in speech processing and machin
 
 News
 ======
-[06/2024] Accepted by Interspeech 2024: Neural Codec-based Adversarial Sample Detection for Speaker Verification.
+[06/2024] Accepted by Interspeech 2024: Neural Codec-based Adversarial Sample Detection for Speaker Verification
 
 [02/2024] Submitted a preprint: EMO-SUPERB: An In-depth Look at Speech Emotion Recognition
 
