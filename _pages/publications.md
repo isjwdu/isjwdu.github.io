@@ -11,7 +11,7 @@ author_profile: true
 {% endif %}
 
 - **Neural Codec-based Adversarial Sample Detection for Speaker Verification**<br/>
-    Xuanjun Chen<sup>\*</sup> , <u>Jiawei Du<sup>*</sup></u>, Haibin Wu, Jyh-Shing Roger Jang, Hung-yi Lee<br/>
+    Xuanjun Chen<sup>\*</sup>, <u>Jiawei Du<sup>*</sup></u>, Haibin Wu, Jyh-Shing Roger Jang, Hung-yi Lee<br/>
     *Interspeech 2024*<br/>
     [ [pdf](http://arxiv.org/abs/) ]
 
