@@ -13,7 +13,7 @@ author_profile: true
 - **Neural Codec-based Adversarial Sample Detection for Speaker Verification**<br/>
     Xuanjun Chen<sup>\*</sup>, <u>Jiawei Du<sup>*</sup></u>, Haibin Wu, Jyh-Shing Roger Jang, Hung-yi Lee<br/>
     *Interspeech 2024*<br/>
-    [ [pdf](http://arxiv.org/abs/) ]
+    [ [pdf](https://arxiv.org/abs/2406.04582) ]
 
 - **EMO-SUPERB: An In-depth Look at Speech Emotion Recognition**<br/>
     Haibin Wu, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, <u>Jiawei Du</u>, Jyh-Shing Roger Jang, Chi-Chun Lee, Hung-Yi Lee<br/>
