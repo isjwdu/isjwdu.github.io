@@ -6,16 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Jiawei Du is currently a second-year postgraduate in the Department of Computer Science and Information Engineering at [National Taiwan University](http://www.ntu.edu.tw/english/). He is a member of the [Multimedia Information Retrieval Lab](http://mirlab.org/) (MIRLab), supervised by [Prof. Jyh-Shing Roger Jang](http://mirlab.org/jang/) in the area of speech processing and machine learning. He received his B.S. degree in Department of Information and Telecommunications Engineering at [Ming Chuan University](http://web2.mcu.edu.tw/en/), supervised by [Prof. Shu-Yin Chiang](http://www.researchgate.net/profile/Shu-Yin-Chiang) in the field of Robotics.
+Jiawei Du is currently a second-year postgraduate student in the Department of Computer Science and Information Engineering at [National Taiwan University](http://www.ntu.edu.tw/english/). He is an active researcher at the [Multimedia Information Retrieval Lab](http://mirlab.org/) (MIRLab), supervised by [Prof. Jyh-Shing Roger Jang](http://mirlab.org/jang/) in the areas of speech processing and machine learning. He obtained his B.S. degree from the Department of Information and Telecommunications Engineering at [Ming Chuan University](http://web2.mcu.edu.tw/en/), under the mentorship of [Prof. Shu-Yin Chiang](http://www.researchgate.net/profile/Shu-Yin-Chiang) in Robotics.
 
-Jiawei's research interests are primarily focused on speech technology and its related fields, especially in the applications of Automatic Speaker Verification (ASV), Audio Neural Codec, and Audio Deepfake Detection and Localization. These research directions aim to help humans distinguish between truth and falsehood in the era of AIGC explosion. Currently, he is focusing on Audio-Visual Anti-Spoofing, as deception is often more convincing in multi-modal scenarios.
+Jiawei's research is centered on speech technology and its applications, including Automatic Speaker Verification (ASV), Audio Neural Codec, and Audio Deepfake Detection and Localization. These research directions aim to assist in distinguishing truth from falsehood in the era of AIGC proliferation. He is currently focusing on Audio-Visual Anti-Spoofing, as deceptions are particularly compelling in multi-modal scenarios.
 
-Jiawei is currently actively seeking internships in speech processing and machine learning globally and is available to start immediately. Additionally, he plans to continue pursuing a Ph.D. degree in Fall 2025/Spring 2026. If you have any internship vacancies or suitable Ph.D. positions, please feel free to contact him.
-
+Jiawei is actively seeking global internships in speech processing and machine learning. He is also planning to pursue a Ph.D. degree starting in Fall 2025 or Spring 2026. If you have any internship vacancies or suitable Ph.D. positions, please feel free to contact him.
 
 News
 ======
-[07/2024] Submitted 4 Conference papers anonymously.
+[07/2024] Submitted 4 conference papers anonymously.
 
 [06/2024] Accepted by Interspeech 2024: Neural Codec-based Adversarial Sample Detection for Speaker Verification.
 
