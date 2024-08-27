@@ -14,11 +14,11 @@ Jiawei is actively seeking global internships in speech processing and machine l
 
 News
 ======
-[07/2024] Submitted 4 conference papers anonymously.
+[08/2024] Submitted 1 conference papers anonymously.
 
 [06/2024] Accepted by Interspeech 2024: Neural Codec-based Adversarial Sample Detection for Speaker Verification.
 
-[06/2024] Ranked 14/49 in CtrSVDD challenge.
+[06/2024] Ranked 13/49 in CtrSVDD challenge.
 
 [02/2024] Submitted a preprint: EMO-SUPERB: An In-depth Look at Speech Emotion Recognition.
 
