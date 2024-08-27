@@ -7,7 +7,7 @@ redirect_from:
   - /files
 ---
 
-English: <a href="/files/CV_JiaweiDu_en.pdf" target="_blank">CV_en</a> (Updated on 06/29/2024)
+English: <a href="/files/CV_JiaweiDu_en.pdf" target="_blank">CV_en</a> (Updated on 08/27/2024)
 
 Simplified Chinese (简中): <a href="/files/CV_JiaweiDu_cn.pdf" target="_blank">CV_cn</a> (2024.03.13 更新)
 
