@@ -14,9 +14,11 @@ Jiawei is actively seeking global internships in speech processing and machine l
 
 News
 ======
+[08/2024] 3 papers were accepted by SLT 2024.
+
 [08/2024] Submitted 1 conference papers anonymously.
 
-[06/2024] Accepted by Interspeech 2024: Neural Codec-based Adversarial Sample Detection for Speaker Verification.
+[06/2024] 1 paper was accepted by Interspeech 2024.
 
 [06/2024] Ranked 13/49 in CtrSVDD challenge.
 

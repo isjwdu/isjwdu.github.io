@@ -10,6 +10,21 @@ author_profile: true
   <div class="wordwrap">Name<sup>*</sup> represents equal first contribution.</div>
 {% endif %}
 
+- **DFADD: The Diffusion and Flow-Matching Based Audio Deepfake Dataset**<br/>
+    <u>Jiawei Du<sup>*</sup></u>, I-Ming Lin<sup>\*</sup>, I-Hsiang Chiu<sup>\*</sup>, Xuanjun Chen, Haibin Wu, Wenze Ren, Yu Tsao, Hung-yi Lee, Jyh-Shing Roger Jang<br/>
+    *SLT 2024*<br/>
+    [ [pdf]() ]
+
+- **Open-Emotion: A Reproducible EMO-SUPERB for Speech Emotion Recognition Systems**<br/>
+    Haibin Wu, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, <u>Jiawei Du</u>, Jyh-Shing Roger Jang, Chi-Chun Lee, Hung-yi Lee
+    *SLT 2024*<br/>
+    [ [pdf]() ]
+
+- **Codec-SUPERB @ SLT 2024: A lightweight benchmark for neural codec models**<br/>
+    Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, <u>Jiawei Du</u>, Kai-Wei Chang, Ke-Han Lu, Alexander Liu, Ho Lam Chung, Yuan-Kuei Wu, Dongchao Yang, Songxiang Liu, Yi-Chiao Wu, Xu Tan, James Glass, Shinji Watanabe, Hung-yi Lee
+    *SLT 2024*<br/>
+    [ [pdf]() ]
+
 - **Neural Codec-based Adversarial Sample Detection for Speaker Verification**<br/>
     Xuanjun Chen<sup>\*</sup>, <u>Jiawei Du<sup>*</sup></u>, Haibin Wu, Jyh-Shing Roger Jang, Hung-yi Lee<br/>
     *Interspeech 2024*<br/>
