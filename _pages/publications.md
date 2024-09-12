@@ -13,7 +13,7 @@ author_profile: true
 - **DFADD: The Diffusion and Flow-Matching Based Audio Deepfake Dataset**<br/>
     <u>Jiawei Du<sup>*</sup></u>, I-Ming Lin<sup>\*</sup>, I-Hsiang Chiu<sup>\*</sup>, Xuanjun Chen, Haibin Wu, Wenze Ren, Yu Tsao, Hung-yi Lee, Jyh-Shing Roger Jang<br/>
     *SLT 2024*<br/>
-    [ [pdf]() ]
+    [ [pdf]() | [Demo](https://github.com/DFADD-Dataset/DFADD_demo_pages/) | [code](https://github.com/isjwdu/DFADD) ]
 
 - **Open-Emotion: A Reproducible EMO-SUPERB for Speech Emotion Recognition Systems**<br/>
     Haibin Wu, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, <u>Jiawei Du</u>, Jyh-Shing Roger Jang, Chi-Chun Lee, Hung-yi Lee<br/>
@@ -28,7 +28,7 @@ author_profile: true
 - **Neural Codec-based Adversarial Sample Detection for Speaker Verification**<br/>
     Xuanjun Chen<sup>\*</sup>, <u>Jiawei Du<sup>*</sup></u>, Haibin Wu, Jyh-Shing Roger Jang, Hung-yi Lee<br/>
     *Interspeech 2024*<br/>
-    [ [pdf](https://arxiv.org/abs/2406.04582) ]
+    [ [pdf](https://www.isca-archive.org/interspeech_2024/chen24p_interspeech.html) ]
 
 - **EMO-SUPERB: An In-depth Look at Speech Emotion Recognition**<br/>
     Haibin Wu, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, <u>Jiawei Du</u>, Jyh-Shing Roger Jang, Chi-Chun Lee, Hung-Yi Lee<br/>
