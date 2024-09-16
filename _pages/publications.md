@@ -13,12 +13,12 @@ author_profile: true
 - **DFADD: The Diffusion and Flow-Matching Based Audio Deepfake Dataset**<br/>
     <u>Jiawei Du<sup>*</sup></u>, I-Ming Lin<sup>\*</sup>, I-Hsiang Chiu<sup>\*</sup>, Xuanjun Chen, Haibin Wu, Wenze Ren, Yu Tsao, Hung-yi Lee, Jyh-Shing Roger Jang<br/>
     *SLT 2024*<br/>
-    [ [pdf]() | [Demo](https://github.com/DFADD-Dataset/DFADD_demo_pages/) | [code](https://github.com/isjwdu/DFADD) ]
+    [ [pdf](https://arxiv.org/abs/2409.08731) | [demo](https://huggingface.co/datasets/isjwdu/DFADD) | [code](https://github.com/isjwdu/DFADD) ]
 
 - **Open-Emotion: A Reproducible EMO-SUPERB for Speech Emotion Recognition Systems**<br/>
     Haibin Wu, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, <u>Jiawei Du</u>, Jyh-Shing Roger Jang, Chi-Chun Lee, Hung-yi Lee<br/>
     *SLT 2024*<br/>
-    [ [pdf]() ]
+    [ [pdf](https://www.researchgate.net/publication/383736295_OPEN-EMOTION_A_REPRODUCIBLE_EMO-SUPERB_FOR_SPEECH_EMOTION_RECOGNITION_SYSTEMS)]
 
 - **Codec-SUPERB @ SLT 2024: A lightweight benchmark for neural codec models**<br/>
     Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, <u>Jiawei Du</u>, Kai-Wei Chang, Ke-Han Lu, Alexander Liu, Ho Lam Chung, Yuan-Kuei Wu, Dongchao Yang, Songxiang Liu, Yi-Chiao Wu, Xu Tan, James Glass, Shinji Watanabe, Hung-yi Lee<br/>
