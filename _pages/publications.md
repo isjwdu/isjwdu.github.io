@@ -18,7 +18,7 @@ author_profile: true
 - **Open-Emotion: A Reproducible EMO-SUPERB for Speech Emotion Recognition Systems**<br/>
     Haibin Wu, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, <u>Jiawei Du</u>, Jyh-Shing Roger Jang, Chi-Chun Lee, Hung-yi Lee<br/>
     *SLT 2024*<br/>
-    [ [pdf](https://www.researchgate.net/publication/383736295_OPEN-EMOTION_A_REPRODUCIBLE_EMO-SUPERB_FOR_SPEECH_EMOTION_RECOGNITION_SYSTEMS)]
+    [ [pdf](https://www.researchgate.net/publication/383736295_OPEN-EMOTION_A_REPRODUCIBLE_EMO-SUPERB_FOR_SPEECH_EMOTION_RECOGNITION_SYSTEMS) ]
 
 - **Codec-SUPERB @ SLT 2024: A lightweight benchmark for neural codec models**<br/>
     Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, <u>Jiawei Du</u>, Kai-Wei Chang, Ke-Han Lu, Alexander Liu, Ho Lam Chung, Yuan-Kuei Wu, Dongchao Yang, Songxiang Liu, Yi-Chiao Wu, Xu Tan, James Glass, Shinji Watanabe, Hung-yi Lee<br/>
