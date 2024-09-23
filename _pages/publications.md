@@ -7,7 +7,7 @@ author_profile: true
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
-  <div class="wordwrap">Name<sup>*</sup> represents equal first contribution.</div>
+  <div class="wordwrap">Name<sup>*</sup> represents equal contribution.</div>
 {% endif %}
 
 - **DFADD: The Diffusion and Flow-Matching Based Audio Deepfake Dataset**<br/>
@@ -21,7 +21,7 @@ author_profile: true
     [ [pdf](https://www.researchgate.net/publication/383736295_OPEN-EMOTION_A_REPRODUCIBLE_EMO-SUPERB_FOR_SPEECH_EMOTION_RECOGNITION_SYSTEMS) ]
 
 - **Codec-SUPERB @ SLT 2024: A lightweight benchmark for neural codec models**<br/>
-    Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, <u>Jiawei Du</u>, Kai-Wei Chang, Ke-Han Lu, Alexander Liu, Ho Lam Chung, Yuan-Kuei Wu, Dongchao Yang, Songxiang Liu, Yi-Chiao Wu, Xu Tan, James Glass, Shinji Watanabe, Hung-yi Lee<br/>
+    Haibin Wu, Xuanjun Chen<sup>\*</sup>, Yi-Cheng Lin<sup>\*</sup>, <u>Jiawei Du<sup>*</sup></u>, Kai-Wei Chang<sup>\*</sup>, Ke-Han Lu<sup>\*</sup>, Alexander Liu<sup>\*</sup>, Ho Lam Chung<sup>\*</sup>, Yuan-Kuei Wu<sup>\*</sup>, Dongchao Yang<sup>\*</sup>, Songxiang Liu, Yi-Chiao Wu, Xu Tan, James Glass, Shinji Watanabe, Hung-yi Lee<br/>
     *SLT 2024*<br/>
     [ [pdf]() ]
 
