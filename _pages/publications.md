@@ -21,9 +21,9 @@ author_profile: true
     [ [pdf](https://www.researchgate.net/publication/383736295_OPEN-EMOTION_A_REPRODUCIBLE_EMO-SUPERB_FOR_SPEECH_EMOTION_RECOGNITION_SYSTEMS) ]
 
 - **Codec-SUPERB @ SLT 2024: A lightweight benchmark for neural codec models**<br/>
-    Haibin Wu, Xuanjun Chen<sup>\*</sup>, Yi-Cheng Lin<sup>\*</sup>, <u>Jiawei Du<sup>*</sup></u>, Kai-Wei Chang<sup>\*</sup>, Ke-Han Lu<sup>\*</sup>, Alexander Liu<sup>\*</sup>, Ho Lam Chung<sup>\*</sup>, Yuan-Kuei Wu<sup>\*</sup>, Dongchao Yang<sup>\*</sup>, Songxiang Liu, Yi-Chiao Wu, Xu Tan, James Glass, Shinji Watanabe, Hung-yi Lee<br/>
+    Haibin Wu, Xuanjun Chen<sup>\*</sup>, Yi-Cheng Lin<sup>\*</sup>, Kai-Wei Chang<sup>\*</sup>,  <u>Jiawei Du<sup>*</sup></u>, Ke-Han Lu<sup>\*</sup>, Alexander Liu<sup>\*</sup>, Ho Lam Chung<sup>\*</sup>, Yuan-Kuei Wu<sup>\*</sup>, Dongchao Yang<sup>\*</sup>, Songxiang Liu, Yi-Chiao Wu, Xu Tan, James Glass, Shinji Watanabe, Hung-yi Lee<br/>
     *SLT 2024*<br/>
-    [ [pdf]() ]
+    [ [pdf](https://arxiv.org/abs/2409.14085) | [code](https://codecsuperb.github.io/) ]
 
 - **Neural Codec-based Adversarial Sample Detection for Speaker Verification**<br/>
     Xuanjun Chen<sup>\*</sup>, <u>Jiawei Du<sup>*</sup></u>, Haibin Wu, Jyh-Shing Roger Jang, Hung-yi Lee<br/>
