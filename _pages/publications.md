@@ -10,6 +10,11 @@ author_profile: true
   <div class="wordwrap">Name<sup>*</sup> represents equal contribution.</div>
 {% endif %}
 
+- **Empower Typed Descriptions by Large Language Models for Speech Emotion**<br/>
+    Haibin Wu, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, <u>Jiawei Du</u>, Jyh-Shing Roger Jang, Chi-Chun Lee, Hung-yi Lee<br/>
+    *SLT 2024*<br/>
+    [ [pdf]() ]
+
 - **DFADD: The Diffusion and Flow-Matching Based Audio Deepfake Dataset**<br/>
     <u>Jiawei Du<sup>*</sup></u>, I-Ming Lin<sup>\*</sup>, I-Hsiang Chiu<sup>\*</sup>, Xuanjun Chen, Haibin Wu, Wenze Ren, Yu Tsao, Hung-yi Lee, Jyh-Shing Roger Jang<br/>
     *SLT 2024*<br/>
