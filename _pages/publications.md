@@ -12,7 +12,7 @@ author_profile: true
 
 - **Empower Typed Descriptions by Large Language Models for Speech Emotion**<br/>
     Haibin Wu, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, <u>Jiawei Du</u>, Jyh-Shing Roger Jang, Chi-Chun Lee, Hung-yi Lee<br/>
-    *SLT 2024*<br/>
+    *APSIPA ASC 2024*<br/>
     [ [pdf]() ]
 
 - **DFADD: The Diffusion and Flow-Matching Based Audio Deepfake Dataset**<br/>
