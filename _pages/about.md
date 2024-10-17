@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Jiawei Du is currently a second-year postgraduate student in the Department of Computer Science and Information Engineering at [National Taiwan University](http://www.ntu.edu.tw/english/). He is an active researcher at the [Multimedia Information Retrieval Lab](http://mirlab.org/) (MIRLab), supervised by [Prof. Jyh-Shing Roger Jang](http://mirlab.org/jang/) in the areas of speech processing and machine learning. He obtained his B.S. degree from the Department of Information and Telecommunications Engineering at [Ming Chuan University](http://web2.mcu.edu.tw/en/), under the mentorship of [Prof. Shu-Yin Chiang](http://www.researchgate.net/profile/Shu-Yin-Chiang) in Robotics.
+Jiawei Du is from mainland China and has been studying in Taiwan for several years. Chinese speakers can call me by my Chinese name, 杜嘉煒 or 杜嘉炜, while English speakers can simply call me Jiawei or Gavin.
+
+Jiawei is currently a third-year master student in the Department of Computer Science and Information Engineering at [National Taiwan University](http://www.ntu.edu.tw/english/). He is an active researcher at the [Multimedia Information Retrieval Lab](http://mirlab.org/) (MIRLab), supervised by [Prof. Jyh-Shing Roger Jang](http://mirlab.org/jang/) in the areas of speech processing and machine learning. He obtained his B.S. degree from the Department of Information and Telecommunications Engineering at [Ming Chuan University](http://web2.mcu.edu.tw/en/), under the mentorship of [Prof. Shu-Yin Chiang](http://www.researchgate.net/profile/Shu-Yin-Chiang) in Robotics.
 
 Jiawei's research is centered on speech technology and its applications, including Automatic Speaker Verification (ASV), Neural Audio Codec, and Audio Deepfake Detection and Localization. These research directions aim to assist in distinguishing truth from falsehood in the era of AIGC proliferation. He is currently focusing on Audio-Visual Anti-Spoofing, as deceptions are particularly compelling in multi-modal scenarios.
 

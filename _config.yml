@@ -22,7 +22,7 @@ repository               : "isjwdu/isjwdu.github.io"
 author:
   # Biographic information
   avatar           : "me.png"
-  name             : "Jiawei Du (杜嘉煒/杜嘉炜)"
+  name             : "Jiawei Du"
   pronouns         :  # example: "she/her"  
   bio              : "Postgraduate at NTU MIRLab"
   location         : "Taipei, Taiwan"
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "http://scholar.google.com/citations?hl=en&user=EPkDtpsAAAAJ"
   impactstory      : # URL
-  orcid            : #
+  orcid            : "https://orcid.org/0009-0001-2421-4017"
   pubmed           : 
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jiawei-Du-19"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
