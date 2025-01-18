@@ -10,6 +10,11 @@ author_profile: true
   <div class="wordwrap">Name<sup>*</sup> represents equal contribution.</div>
 {% endif %}
 
+- **CodecFake-Omni: A Large-Scale Codec-based Deepfake Speech Dataset**<br/>
+    <u>Jiawei Du<sup>*</sup></u>, <u>Xuanjun Chen<sup>*</sup></u>, Haibin Wu, Lin Zhang, I-Ming Lin, I-Hsiang Chiu, Wenze Ren, Yuan Tseng, Yu Tsao, Jyh-Shing Roger Jang, Hung-yi Lee<br/>
+    *Preprint*<br/>
+    [ [pdf](https://arxiv.org/abs/2501.08238) ]
+
 - **Empower Typed Descriptions by Large Language Models for Speech Emotion**<br/>
     Haibin Wu, Huang-Cheng Chou, Kai-Wei Chang, Lucas Goncalves, <u>Jiawei Du</u>, Jyh-Shing Roger Jang, Chi-Chun Lee, Hung-yi Lee<br/>
     *APSIPA ASC 2024*<br/>

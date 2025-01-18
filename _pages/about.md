@@ -12,10 +12,12 @@ Jiawei is currently a third-year master student in the Department of Computer Sc
 
 Jiawei's research is centered on speech technology and its applications, including Automatic Speaker Verification (ASV), Neural Audio Codec, and Audio Deepfake Detection and Localization. These research directions aim to assist in distinguishing truth from falsehood in the era of AIGC proliferation. He is currently focusing on Audio-Visual Anti-Spoofing, as deceptions are particularly compelling in multi-modal scenarios.
 
-Jiawei is actively seeking global internships in speech processing and machine learning. He is also planning to pursue a Ph.D. degree starting in Fall 2025 or Spring 2026. If you have any internship vacancies or suitable Ph.D. positions, please feel free to contact him.
+Jiawei is actively seeking global internships in speech processing and machine learning. He is also planning to pursue a Ph.D. degree starting in 2026. If you have any internship vacancies or suitable Ph.D. positions, please feel free to contact him.
 
 News
 ======
+[01/2025] Submitted a preprint: CodecFake-Omni: A Large-Scale Codec-based Deepfake Speech Dataset.
+
 [09/2024] 1 paper was accepted by APSIPA ASC 2024.
 
 [08/2024] 3 papers were accepted by SLT 2024.
