@@ -11,7 +11,7 @@ author_profile: true
 {% endif %}
 
 - **CodecFake-Omni: A Large-Scale Codec-based Deepfake Speech Dataset**<br/>
-    <u>Jiawei Du<sup>*</sup></u>, <u>Xuanjun Chen<sup>*</sup></u>, Haibin Wu, Lin Zhang, I-Ming Lin, I-Hsiang Chiu, Wenze Ren, Yuan Tseng, Yu Tsao, Jyh-Shing Roger Jang, Hung-yi Lee<br/>
+    <u>Jiawei Du<sup>*</sup></u>, Xuanjun Chen<sup>*</sup>, Haibin Wu, Lin Zhang, I-Ming Lin, I-Hsiang Chiu, Wenze Ren, Yuan Tseng, Yu Tsao, Jyh-Shing Roger Jang, Hung-yi Lee<br/>
     *Preprint*<br/>
     [ [pdf](https://arxiv.org/abs/2501.08238) ]
 
@@ -31,7 +31,7 @@ author_profile: true
     [ [pdf](https://www.researchgate.net/publication/383736295_OPEN-EMOTION_A_REPRODUCIBLE_EMO-SUPERB_FOR_SPEECH_EMOTION_RECOGNITION_SYSTEMS) ]
 
 - **Codec-SUPERB @ SLT 2024: A lightweight benchmark for neural codec models**<br/>
-    Haibin Wu, Xuanjun Chen<sup>\*</sup>, Yi-Cheng Lin<sup>\*</sup>, Kai-Wei Chang<sup>\*</sup>,  <u>Jiawei Du<sup>*</sup></u>, Ke-Han Lu<sup>\*</sup>, Alexander Liu<sup>\*</sup>, Ho Lam Chung<sup>\*</sup>, Yuan-Kuei Wu<sup>\*</sup>, Dongchao Yang<sup>\*</sup>, Songxiang Liu, Yi-Chiao Wu, Xu Tan, James Glass, Shinji Watanabe, Hung-yi Lee<br/>
+    Haibin Wu, <u>Jiawei Du<sup>*</sup></u>, Xuanjun Chen<sup>\*</sup>, Yi-Cheng Lin<sup>\*</sup>, Kai-Wei Chang<sup>\*</sup>, Ke-Han Lu<sup>\*</sup>, Alexander Liu<sup>\*</sup>, Ho Lam Chung<sup>\*</sup>, Yuan-Kuei Wu<sup>\*</sup>, Dongchao Yang<sup>\*</sup>, Songxiang Liu, Yi-Chiao Wu, Xu Tan, James Glass, Shinji Watanabe, Hung-yi Lee<br/>
     *SLT 2024*<br/>
     [ [pdf](https://arxiv.org/abs/2409.14085) | [code](https://codecsuperb.github.io/) ]
 
@@ -46,6 +46,6 @@ author_profile: true
     [ [pdf](http://arxiv.org/abs/2402.13018) | [webpage](http://emosuperb.github.io/) | [code](http://github.com/EMOsuperb/EMO-SUPERB-submission) ]
 
 - **Dcase 2023 task 6b: Text-to-audio retrieval using pretrained models**<br/>
-    Chung-Che Wang<sup>\*</sup>, <u>Jiawei Du<sup>*</sup></u>, Jyh-Shing Roger Jang<br/>
+    <u>Jiawei Du<sup>*</sup></u>, Chung-Che Wang<sup>\*</sup>, Jyh-Shing Roger Jang<br/>
     *DCASE2023 Challenge, Tech. Rep*<br/>
     [ [pdf](http://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Wang_40_t6b.pdf) ]
