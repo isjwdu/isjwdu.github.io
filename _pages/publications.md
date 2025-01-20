@@ -11,7 +11,7 @@ author_profile: true
 {% endif %}
 
 - **CodecFake-Omni: A Large-Scale Codec-based Deepfake Speech Dataset**<br/>
-    <u>Jiawei Du<sup>*</sup></u>, Xuanjun Chen<sup>*</sup>, Haibin Wu, Lin Zhang, I-Ming Lin, I-Hsiang Chiu, Wenze Ren, Yuan Tseng, Yu Tsao, Jyh-Shing Roger Jang, Hung-yi Lee<br/>
+    <u>Jiawei Du<sup>*</sup></u>, Xuanjun Chen<sup>\*</sup>, Haibin Wu, Lin Zhang, I-Ming Lin, I-Hsiang Chiu, Wenze Ren, Yuan Tseng, Yu Tsao, Jyh-Shing Roger Jang, Hung-yi Lee<br/>
     *Preprint*<br/>
     [ [pdf](https://arxiv.org/abs/2501.08238) ]
 
