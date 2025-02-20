@@ -16,6 +16,10 @@ Jiawei is actively seeking global internships in speech processing and machine l
 
 News
 ======
+[02/2025] Started research internship at Samsung Research China (Beijing), focusing on neural audio codec.
+
+[02/2025] Submitted a conference paper anonymously.
+
 [01/2025] Submitted a preprint: CodecFake-Omni: A Large-Scale Codec-based Deepfake Speech Dataset.
 
 [09/2024] 1 paper was accepted by APSIPA ASC 2024.
